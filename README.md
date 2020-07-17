@@ -1,4 +1,4 @@
-# Cleveland Coding Conglomerate Website
+# Northeast Ohio Coding Coalition Website
 
 This is the repository that hosts our website.
 
